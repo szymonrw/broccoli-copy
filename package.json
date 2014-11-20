@@ -1,0 +1,21 @@
+{
+  "name": "broccoli-copy",
+  "version": "0.1.0",
+  "description": "Copy and merge trees for broccoli",
+  "author": "Szymon Witamborski <simon@brainshave.com>",
+  "license": "MIT",
+  "keywords": ["broccoli", "trees", "merge", "copy"],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brainshave/broccoli-copy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/brainshave/broccoli-copy/issues"
+  },
+  "dependencies": {
+    "broccoli-dep-filter": "^0.3.0"
+  }
+}
